@@ -1,0 +1,11 @@
+﻿global using Xunit;
+global using DGProM.Services;
+global using DGProM.Services.AppEnvironment;
+global using DGProM.Services.Basket;
+global using DGProM.Services.Catalog;
+global using DGProM.Services.Marketing;
+global using DGProM.Services.Order;
+global using DGProM.Services.Settings;
+global using DGProM.Services.User;
+global using DGProM.UnitTests.Mocks;
+global using DGProM.ViewModels;
